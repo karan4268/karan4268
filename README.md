@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karan4268 (Karandeep Chadda)
 - 👀 I’m interested in web dev, DATA analytics & ML 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning AI&ML tools 
 - 💞️ I’m looking to collaborate on Data analytics & ML related projects
 - 📫 How to reach me 📧@ karandeepchadda@gmail.com
 - ⚡ Fun fact: Less than 0.5% of all data we create is ever analyzed and used, which means there’s a vast amount of untapped potential in the data we collect.👀
